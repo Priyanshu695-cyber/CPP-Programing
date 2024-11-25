@@ -1,0 +1,16 @@
+#include<iostream>
+#include<string>
+using namespace std;
+int main()
+{
+string name="pizza shop";
+char size;
+float personToServe;
+float retailPrice;
+cout<<"enter pizza size for 'M','S','L':";
+cin>>size;
+cout<<"enter person to serve:";
+cin>>personToServe;
+cout<<"enter pizza retail price:";
+cin>>retailPrice;
+}
