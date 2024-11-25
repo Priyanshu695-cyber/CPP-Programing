@@ -1,0 +1,14 @@
+#include<iostream>
+#include<conio.h>
+using namespace std;
+ram(int x,int y)
+{
+int sum=x+y;
+cout<<sum;
+}
+main()
+{
+    ram(6,7);
+    getch();
+}
+
